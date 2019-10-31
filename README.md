@@ -5,14 +5,21 @@ It converts a set of input images into a new, much larger set of slightly altere
 
 
 
-## reference
+## item
 
-* [imgaug](<https://github.com/aleju/imgaug>)
-* [albumentations](<https://github.com/albu/albumentations>)
-* [Augmentor](<https://github.com/mdbloice/Augmentor>)
-* [torchvision.transforms](<https://pytorch.org/docs/master/torchvision/transforms.html>)
-* [mxnet.gluon.data.vision](<https://mxnet.incubator.apache.org/api/python/image/image.html>)
-* [keras.preprocessing.image](<https://keras.io/preprocessing/image/>)
-* [tf.keras.preprocessing.image](<https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator>)
-* [tf.image](<https://www.tensorflow.org/api_docs/python/tf>)
+* [imgaug](./imgaug/)
+* [albumentations](./albumentations/)
+* [Augmentor](./Augmentor/)
+* [pytorch.vision](./pytorchvision/)
+* [mxnet](./mximage/)
+* [mxnetgluoncv](./mxgluoncv/)
+* [tf.image](./tfimage/)
+* [tf.keras.preprocessing.image](./tfkerasimage/)
+* [keras.preprocessing.image](./kerasimage/)
+* [numpy](<https://numpy.org/>)
+* [skimage](<https://scikit-image.org/>)
+* [scipy](<https://www.scipy.org/>)
+* [mahotas](<https://github.com/luispedro/mahotas>)
+* [PIL/Pillow](<https://pillow.readthedocs.io>)
+* [pycairo](<https://github.com/pygobject/pycairo>)
 
