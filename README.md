@@ -20,4 +20,5 @@ It converts a set of input images into a new, much larger set of slightly altere
 * [scipy](./scipy/)
 * [mahotas](./mahotas/)
 * [PIL/Pillow](./PILImage/)
+* [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)
 
